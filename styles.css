@@ -163,7 +163,20 @@ hr {
     padding: 2rem;
 }
 
+
+.section2 .container-project .hero-heading {
+    
+    padding-top: 1rem;
+    color: var(--dark-gray);
+}
+
+.section2 .container-project .heading-inverted {
+    color: var(--primary-color);
+}
+
 /** blogs **/
 .showcase-blog {
     padding-bottom: 6rem;
 }
+
+
