@@ -56,7 +56,7 @@ hr {
     margin: 1rem 1rem 1rem 0rem;
 }
 
-/** look into BEM naming convention for CSS **/
+
 
 /** lists **/
 
@@ -179,4 +179,8 @@ hr {
     padding-bottom: 6rem;
 }
 
+.container-project {
+    max-width: 600px;
+    margin: auto;
+}
 
